@@ -1,2 +1,2 @@
 # myWebSite
-For Testing purpose
+Just to try out a new website.
